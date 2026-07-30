@@ -1,7 +1,7 @@
 # Ultrasonic-Sensor-Characterization
 Sensor Characterization Project: logging, analyzing, and visualizing accuracy/noise/drift of an HC-SR04 ultrasonic sensor.
 
-**Full write-up:** [Ultrasonic_Sensor_Accuracy_Noise_Characterization_Writeup.pdf]([Ultrasonic_Sensor_Accuracy_Noise_Characterization_Writeup.pdf](https://github.com/Ardeshir-Aidun/Ultrasonic-Sensor-Characterization/blob/main/Ultrasonic_Sensor_Accuracy_Noise_Characterization_Writeup.pdf))
+**Full write-up:** [Ultrasonic_Sensor_Accuracy_Noise_Characterization_Writeup.pdf](https://github.com/Ardeshir-Aidun/Ultrasonic-Sensor-Characterization/blob/main/Ultrasonic_Sensor_Accuracy_Noise_Characterization_Writeup.pdf)
 
 ## Contents
 - `ultrasonic_test_no_lcd.ino` — Arduino sketch for data collection
